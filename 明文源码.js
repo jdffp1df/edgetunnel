@@ -1,7 +1,7 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = '22083321-8c07-4d25-af73-16c56bbe613a';
+let userID = '20a10207-5be1-45f9-8f81-ba8dd857768c';
 let proxyIP = '';
 let sub = '';
 let subConverter = 'SUBAPI.fxxk.dedyn.io';
